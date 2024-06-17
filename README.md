@@ -1,1 +1,1 @@
-survival prediction with kaggle's titanic competition. 75% accuracy
+A machine learning model for survival prediction of passengers on the titanic. 75% accuracy
